@@ -3,7 +3,7 @@
 This is the code I worked on for my Summer REU. 
 
 
-![Pipeline Picture](https://github.com/jlim13/SummerREU/blob/master/pipeline.jpg?raw=true "Pipeline Pic")  
+![Pipeline Picture](pipeline.jpg?raw=true "Pipeline Pic")  
 
 ## Step 1: Go into examplePipeline    
         1a) The whole point of this part of the code is to extract the press releases that:   
